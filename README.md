@@ -28,8 +28,6 @@ hướng](https://img.shields.io/badge/Định%20hướng-Java%20Backend-2563EB?
     nguồn.
 
 ## 🧰 Kỹ năng & Công cụ
-
-::: {align="center"}
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring
 Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -65,7 +63,7 @@ Thymeleaf · SQL Server · Maven
 [![Xem mã
 nguồn](https://img.shields.io/badge/Xem_mã_nguồn-181717?style=for-the-badge&logo=github)](https://github.com/tuilahau/spring-boot-book-manager)
 
-```
+
 ### 🛡️ Hệ thống giám sát thông tin tiêu cực
 
 Dự án cá nhân hướng đến tự động hóa việc thu thập, sàng lọc và đánh giá
