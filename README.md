@@ -44,7 +44,6 @@ Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-:::
 
 ## 🚀 Dự án nổi bật
 
@@ -109,6 +108,6 @@ nguồn](https://img.shields.io/badge/Xem_mã_nguồn-181717?style=for-the-badge
 💬 **Kết nối với mình:** [GitHub](https://github.com/tuilahau) ·
 [Email](mailto:trunghau231204@gmail.com)
 
-`<sub>`{=html}"Mỗi ngày học thêm một điều mới, mỗi dự án tốt hơn một
-chút."`</sub>`{=html}
+"Mỗi ngày học thêm một điều mới, mỗi dự án tốt hơn một
+chút."`
 :::
