@@ -10,7 +10,6 @@ Mình yêu thích xây dựng ứng dụng web, làm việc với cơ sở dữ 
 [![Email](https://img.shields.io/badge/Email-Li%C3%AAn%20h%E1%BB%87-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trunghau231204@gmail.com)
 [![Định
 hướng](https://img.shields.io/badge/Định%20hướng-Java%20Backend-2563EB?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/tuilahau)
-:::
 
 ------------------------------------------------------------------------
 
@@ -51,15 +50,6 @@ Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=
 
 ## 🚀 Dự án nổi bật
 
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
 ### 📚 Book Management System
 
 Ứng dụng web quản lý sách và danh mục, hỗ trợ tra cứu và quản lý dữ liệu
@@ -75,11 +65,6 @@ Thymeleaf · SQL Server · Maven
 [![Xem mã
 nguồn](https://img.shields.io/badge/Xem_mã_nguồn-181717?style=for-the-badge&logo=github)](https://github.com/tuilahau/spring-boot-book-manager)
 
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
 ```
 ### 🛡️ Hệ thống giám sát thông tin tiêu cực
 
@@ -97,15 +82,6 @@ Google Sheets · SMTP
 [![Xem mã
 nguồn](https://img.shields.io/badge/Xem_mã_nguồn-181717?style=for-the-badge&logo=github)](https://github.com/tuilahau/DNTN_GSND_TieuCuc_DHCL)
 
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
 ## 💼 Kinh nghiệm
 
 **Kỹ thuật viên mạng --- FPT Telecom**\
