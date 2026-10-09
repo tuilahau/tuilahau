@@ -1,5 +1,3 @@
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0EA5A4&height=190&section=header&text=Nguyễn%20Trung%20Hậu&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Java%20Backend%20Developer%20Intern&descAlignY=57&descSize=18" alt="Banner Nguyễn Trung Hậu" width="100%" />`{=html}
 
 ### Xin chào! Mình là Hậu 👋
 
@@ -130,10 +128,6 @@ nguồn](https://img.shields.io/badge/Xem_mã_nguồn-181717?style=for-the-badge
 
 ## 📊 GitHub
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=tuilahau&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Thống kê GitHub" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuilahau&layout=compact&hide_border=true&theme=tokyonight" alt="Ngôn ngữ sử dụng trên GitHub" />`{=html}
-:::
 
 ------------------------------------------------------------------------
 
