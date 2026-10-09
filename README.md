@@ -100,14 +100,10 @@ nguồn](https://img.shields.io/badge/Xem_mã_nguồn-181717?style=for-the-badge
     để học hỏi và đóng góp vào dự án thực tế.
 
 ## 📊 GitHub
-
-
 ------------------------------------------------------------------------
-
-::: {align="center"}
 💬 **Kết nối với mình:** [GitHub](https://github.com/tuilahau) ·
 [Email](mailto:trunghau231204@gmail.com)
 
 "Mỗi ngày học thêm một điều mới, mỗi dự án tốt hơn một
-chút."`
-:::
+chút."
+
